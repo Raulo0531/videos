@@ -2,44 +2,138 @@
 <languages>
 
   <English>
-  
 
 
-      <string name="PRESENTATION">Hello and welcome to Multi-Language System</string>
-      <string name="SAMPLE_TEXT_1">Here you can have some text (1).</string>
-      <string name="SAMPLE_TEXT_2">Here you can have some different text (2).</string>
-      <string name="SAMPLE_TEXT_3">Here you can have another different text (3).</string>
 
-      <string name="MESSAGE_HEADER">MESSAGE:</string>
-
-
-    
-
-      <string name="PLAY_BUTTON">PLAY</string>
-      <string name="OPTIONS_BUTTON">OPTIONS</string>
-      <string name="EXIT_BUTTON">EXIT</string>
-      <string name="RETURN_BUTTON">RETURN</string>
-
-
-      <string name="MESSAGE1_BUTTON">MESSAGE 1</string>
-      <string name="MESSAGE2_BUTTON">MESSAGE 2</string>
-      <string name="MESSAGE3_BUTTON">MESSAGE 3</string>
-    
-    
-    
-      <string name="SAMPLE_DROPDOWN_1">ENG DROP OPTION 1</string>
-      <string name="SAMPLE_DROPDOWN_2">ENG DROP OPTION 2</string>
-      <string name="SAMPLE_DROPDOWN_3">ENG DROP OPTION 3</string>
+    <string name="SUBTITULO">The application of augmented reality
+allows a multimedia experience
+of our brochure.
+    </string>
+    <string name="PASOS-TITULO">STEPS</string>
+    <string name="PASOS-TEXTO">Every time you find this icon, you may use the app focusing the image.
+    </string>
+    <string name="SIGUIENTE">NEXT</string>
 
     
-      <string name="SAMPLE_MESSAGE_1">Here you can have a message text (1).</string>
-      <string name="SAMPLE_MESSAGE_2">Here you can have a different message text (2).</string>
-      <string name="SAMPLE_MESSAGE_3">Here you can have another different message text (3).</string>
 
 
-      <string name="GAME_HEADER">Game Scene</string>
-      <string name="GAME_MESSAGE">This is like an in-game text.</string>
+    <string name="CONTACTO">CONTACT US</string>
+    <string name="NOSOTROS">ABOUT US</string>
 
+    <string name="DIRECCION">1570 Cap. Andrés Insfrán
+Route and Lara Castro Street,
+Luque
+Tel.: (59521) 647 883
+Fax: (59521) 654 336
+Email: info@engineering.com.py
+    </string>
+    <string name="BOTON-ENGINEERING">www.engineering.com.py</string>
+
+
+    <string name="TITULO-MAPA">Fuels</string>
+    <string name="TEXTO-MAPA">We construct, build and offer maintenance for fuel storage and transportation units for the oil and gas industry with designs that allow ecological and economical sustainability, adapting ourselves to the demands and challenges of the sector under international standards.</string>
+    <string name="ABAJO-MAPA">Want to learn more? Contact us here</string>
+
+
+    <string name="TEXTO-FORMULARIO">If you are interested in requesting a quotation or if you would like to make an inquiry, please complete the following form:</string>
+    <string name="NOMBRE-APELLIDO">Name and surname</string>
+    <string name="EMAIL">E-mail</string>
+    <string name="TELEFONO">Telephone</string>
+    <string name="EMPRESA">Company</string>
+    <string name="MENSAJE">Message</string>
+    <string name="ENVIAR">SEND</string>
+
+
+
+    <string name="AEROPORTUARIOTITULO">Airports</string>
+    <string name="AEROPORTUARIOTEXTO">We manufacture equipment for luggage embarkation and disembarkation, we carry out signaling of landing paths and electromechanical maintenance for airports, providing a diverse range of ground handling equipment and for platforms.</string>
+    <string name="AEROPORTUARIOBOTON">Want to learn more? Contact us here</string>
+
+    <string name="AUTOMATIZACIONTITULO">Automation</string>
+    <string name="AUTOMATIZACIONTEXTO">We optimize the processes through the industrial automation and control using the SCADA system, providing solutions for the handling of information and engineering with its respective technical support, allowing to improve the production cycles. Development of applications for touchscreens (HMI). PLC programming. Lots processing (Batches). Design and assembly of panels. Network services. Transformation services. Applications services. Optimization services. Configuration and Design</string>
+    <string name="AUTOMATIZACIONBOTON">Want to learn more? Contact us here</string>
+
+    <string name="BIOMEDICSTITULO">Biomedics</string>
+    <string name="BIOMEDICSTEXTO">We have our technological platform for the development, manufacture and construction of infrastructure for hospitals; with national engineers and professionals under international quality standards. Also, we perform supply of medical equipment and supplies.</string>
+    <string name="BIOMEDICSBOTON">Want to learn more? Contact us here</string>
+
+    <string name="CEMENTOTITULO">Cement</string>
+    <string name="CEMENTOTEXTO">We perform turnkey projects (EPC) of cement production plants, that go from the development of engineering, including civil, electric and electromechanical works for the manufacture and assembly of equipment such as average and heavy boilermaking, elevators, conveyors, screw conveyors, groups of hoppers, mixture plants, trommels, dryers and others.</string>
+    <string name="CEMENTOBOTON">Want to learn more? Contact us here</string>
+
+    <string name="COMBUSTIBLETITULO">Fuels</string>
+    <string name="COMBUSTIBLETEXTO">We build, manufacture and offer maintenance for fuel storage and transport units for oil and gas industry, with designs that allow ecological and economic sustainability, adapting to the requirements and challenges of the sector under international standards.</string>
+    <string name="COMBUSTIBLEBOTON">Want to learn more? Contact us here</string>
+
+    <string name="DEFENSATITULO">Defense</string>
+    <string name="DEFENSATEXTO">We are the first defense and safety private industry authorized as manufacturers in the country. We design, manufacture, integrate and trade strategic logistics and safety equipment for the Armed Forces and Police Forces.</string>
+    <string name="DEFENSABOTON">Want to learn more? Contact us here</string>
+
+    <string name="EOLICATITULO">Wind</string>
+    <string name="EOLICATEXTO">We installed systems to obtain electric energy from the wind, which represents a great financial and environmental advantage. By means of increasingly efficient wind turbines it is possible to obtain clean and renewable energy.</string>
+    <string name="EOLICABOTON">Want to learn more? Contact us here</string>
+
+    <string name="SOLARTITULO">Solar</string>
+    <string name="SOLARTEXTO">We installed photovoltaic solar energy systems, deemed as the best alternative for generation of energy preserving the environment, through the most refined techniques, both of calculation as well as of selection and classification regarding material quality and solutions with the current state-of-the-art technologies.</string>
+    <string name="SOLARBOTON">Want to learn more? Contact us here</string>
+
+    <string name="EQUIPAMIENTOTITULO">Equipment and Furniture</string>
+    <string name="EQUIPAMIENTOTEXTO">We provide and trade furniture for all types of institutions and organizations, from hospital furniture to school furniture, guaranteeing the highest functionality of spaces and comfort.</string>
+    <string name="EQUIPAMIENTOBOTON">Want to learn more? Contact us here</string>
+
+    <string name="CIVILTITULO">Civil</string>
+    <string name="CIVILTEXTO">We project, manage and execute civil works that include design, planning and engineering necessary for each project of various complexities.</string>
+    <string name="CIVILBOTON">Want to learn more? Contact us here</string>
+
+    <string name="TRANSMISIONTITULO">Transmission Lines</string>
+    <string name="TRANSMISIONTEXTO">We devise engineering and design solutions for the supply and construction of electric energy transmission and distribution systems, integrating solutions for medium and high-tension lines.</string>
+    <string name="TRANSMISIONBOTON">Want to learn more? Contact us here</string>
+
+    <string name="METALMECANICATITULO">Metalwork</string>
+    <string name="METALMECANICATEXTO">We manufacture components, industrial equipment and medium and large size metal structures. With a large covered area and one with the greatest lifting capacity in the country, we carry out mechanization processes, formation and surface treatments for parts and components of all types of industries.</string>
+    <string name="METALMECANICABOTON">Want to learn more? Contact us here</string>
+
+    <string name="MINERIATITULO">Mining</string>
+    <string name="MINERIATEXTO">We trade and manufacture machines and equipment intended for processing of rocks and aggregates, with permanent support in after sales and supply of spare parts and accessories for all product lines.</string>
+    <string name="MINERIABOTON">Want to learn more? Contact us here</string>
+
+    <string name="PUERTOSTITULO">Ports</string>
+    <string name="PUERTOSTEXTO">We develop projects for river ports including preliminary studies and bathymetry studies, civil works, supply of cranes and equipment for special cargo movement, besides all the lighting according to international regulations, Wi-Fi networks and energy for reefer container yards, among others.</string>
+    <string name="PUERTOSBOTON">Want to learn more? Contact us here</string>
+
+    <string name="QUIMICATITULO">Chemistry</string>
+    <string name="QUIMICATEXTO">We build industrial plants for the production of all types of chemical products, which includes feasibility studies, engineering, supplies, maintenance and management, as well as the pre-commissioning and start-up, personnel training and assistance for operation.</string>
+    <string name="QUIMICABOTON">Want to learn more? Contact us here</string>
+
+    <string name="RECICLAJETITULO">Recycling</string>
+    <string name="RECICLAJETEXTO">We design, manufacture and perform the commissioning of full plants for recycling of urban and industrial waste, both mobile and fixed, offering maximum performance thanks to the advice and knowledge that allow us to design custom-made systems.</string>
+    <string name="RECICLAJEBOTON">Want to learn more? Contact us here</string>
+
+    <string name="SANEAMIENTOTITULO">Sanitation</string>
+    <string name="SANEAMIENTOTEXTO">We develop integral solutions for the treatment of all types of water, whether for purification or for industrial and sewage effluents, carrying systems with state-of-the-art technology for its operation and use. Our equipment is manufactured in stainless steel or fiberglass (PRFV).</string>
+    <string name="SANEAMIENTOBOTON">Want to learn more? Contact us here</string>
+
+    <string name="SUBESTACIONESTITULO">Substations</string>
+    <string name="SUBESTACIONESTEXTO">We carry out the construction, from the beginning until the delivery in turnkey mode, of electric substations (AIS and GIS) and their respective transmission lines, with transformers and measurement systems in agreement with all the local and international safety regulations.</string>
+    <string name="SUBESTACIONESBOTON">Want to learn more? Contact us here</string>
+
+    <string name="TERMOMECANICATITULO">Thermomechanics</string>
+    <string name="TERMOMECANICATEXTO">We provide solutions for temperature control and handling in production processes through equipment for steam generation, refrigeration and incineration.</string>
+    <string name="TERMOMECANICABOTON">Want to learn more? Contact us here</string>
+
+    <string name="TICSTITULO">ICTs</string>
+    <string name="TICSTEXTO">We integrate and execute projects focused on technological solutions for public and private corporate networks, with the suitable technical assistance for the best use of the facilities and acquisition of equipment.</string>
+    <string name="TICSBOTON">Want to learn more? Contact us here</string>
+
+    <string name="TRANSPORTETITULO">Transport and Logistics</string>
+    <string name="TRANSPORTETEXTO">We develop integral solutions for transport and logistics that include design and manufacture of equipment and bodies, considering the regulations, weight, loading and unloading mode, routes, etc.</string>
+    <string name="TRANSPORTEBOTON">Want to learn more? Contact us here</string>
+
+    <string name="VIALIDADTITULO">Roads</string>
+    <string name="VIALIDADTEXTO">We execute road works such as highways, routes, paths and urban streets, weight control systems and bridges that allow an efficient road communication between cities.</string>
+    <string name="VIALIDADBOTON">Want to learn more? Contact us here</string>
+    
+    <string name="VERMAS">See more</string>
      
   </English>
 

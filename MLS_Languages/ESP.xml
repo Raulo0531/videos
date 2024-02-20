@@ -2,43 +2,204 @@
 <languages>
   
   <Espanol>
-  
+
+
+    <string name="SUBTITULO">
+      La aplicación de realidad aumentada
+      permite una experiencia multimedia
+      de nuestro brochure.
+    </string>
+    <string name="PASOS-TITULO">PASOS</string>
+    <string name="PASOS-TEXTO">Cada vez que encuentres este ícono, podrás utilizar la app enfocando la imagen.
+    </string>
+    <string name="SIGUIENTE">SIGUIENTE</string>
+
+
+
+
+    <string name="CONTACTO">CONTACTO</string>
+    <string name="NOSOTROS">NOSOTROS</string>
+
+    <string name="DIRECCION">
+      Ruta Cap. Andrés Insfrán 1570
+      y Lara Castro, Luque
+      Teléfonos: (595 21) 647 883
+      Fax: (595 21) 654 336
+      info@engineering.com.py
+    </string>
+    <string name="BOTON-ENGINEERING">www.engineering.com.py</string>
+
+
+    <string name="TITULO-MAPA">Combustibles</string>
+    <string name="TEXTO-MAPA">Construimos, fabricamos y ofrecemos mantenimiento a unidades de almacenamiento y transporte de combustibles para la industria petrolera y del gas, con diseños que permiten sostenibilidad ecológica y económica, adaptándonos a las exigencias y desafíos del sector bajo estándares internacionales.
+    </string>
+    <string name="ABAJO-MAPA">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+
+    <string name="TEXTO-FORMULARIO">Si le interesa solicitar una cotización o hacer alguna consulta, completa el siguiente formulario:</string>
+    <string name="NOMBRE-APELLIDO">Nombre y Apellido</string>
+    <string name="EMAIL">E-mail</string>
+    <string name="TELEFONO">Teléfono</string>
+    <string name="EMPRESA">Empresa</string>
+    <string name="MENSAJE">Mensaje</string>
+    <string name="ENVIAR">Enviar</string>
+
+
+    <string name="AEROPORTUARIOTITULO">Aeroportuario</string>
+    <string name="AEROPORTUARIOTEXTO">Fabricamos equipos para embarque/desembarque de equipajes, ejecutamos señalización de pistas de aterrizaje y mantenimiento electromecánico para aeropuertos, proveyendo una diversa gama de equipos de asistencia en tierra y plataforma.</string>
+    <string name="AEROPORTUARIOBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="AUTOMATIZACIONTITULO">Automatización</string>
+    <string name="AUTOMATIZACIONTEXTO">Optimizamos procesos a través de la automatización y control industrial utilizando el sistema SCADA, brindando soluciones para el manejo de la información e ingeniería con su respectivo soporte técnico, permitiendo mejorar los ciclos de producción. Desarrollo de aplicaciones para pantallas táctiles (HMI). Programación de PLC. Procesamiento por lotes (Batch)</string>
+    <string name="AUTOMATIZACIONBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="BIOMEDICSTITULO">Biomedics</string>
+    <string name="BIOMEDICSTEXTO">Disponemos nuestra plataforma tecnológica para el desarrollo, fabricación y construcción de infraestructura para hospitales; con ingenieros y profesionales nacionales bajo estándares de calidad internacional. Así también, realizamos suministros de equipos e insumos médicos.</string>
+    <string name="BIOMEDICSBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="CEMENTOTITULO">Cemento</string>
+    <string name="CEMENTOTEXTO">Ejecutamos proyectos llave en mano (EPC) de plantas para producción de cemento, que van desde el desarrollo de la ingeniería incluyendo las obras civiles, eléctricas y electromecánicas para la fabricación y montaje de equipos como calderería media y pesada, elevadores, cintas, sinfines, grupos de tolvas, plantas de mezclas, tromeles, secadores y otros.</string>
+    <string name="CEMENTOBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="COMBUSTIBLETITULO">Combustibles</string>
+    <string name="COMBUSTIBLETEXTO">Construimos, fabricamos y ofrecemos mantenimiento a unidades de almacenamiento y transporte de combustibles para la industria petrolera y del gas, con diseños que permiten sostenibilidad ecológica y económica, adaptándonos a las exigencias y desafíos del sector bajo estándares internacionales.</string>
+    <string name="COMBUSTIBLEBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="DEFENSATITULO">Defensa</string>
+    <string name="DEFENSATEXTO">Somos la primera industria privada de defensa y seguridad habilitada como fabricante en el país. Diseñamos, producimos, integramos y comercializamos equipos logísticos estratégicos y de seguridad para las Fuerzas Armadas y Policiales.</string>
+    <string name="DEFENSABOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="EOLICATITULO">Eólica</string>
+    <string name="EOLICATEXTO">Instalamos sistemas para la obtención de energía eléctrica proveniente del viento, lo que representa una gran ventaja económica y medioambiental. Por medio de aerogeneradores cada vez más eficientes, se obtiene energía limpia y renovable.</string>
+    <string name="EOLICABOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="SOLARTITULO">Solar</string>
+    <string name="SOLARTEXTO">Instalamos sistemas de energía solar fotovoltaica, consideradas las mejores alternativas para la generación de electricidad preservando el ambiente, a través de las más depuradas técnicas tanto de cálculos como de selección y clasificación en la calidad de los materiales y soluciones con las últimas tecnologías vigentes.</string>
+    <string name="SOLARBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="EQUIPAMIENTOTITULO">Equipamiento y Mobiliario</string>
+    <string name="EQUIPAMIENTOTEXTO">Proveemos y comercializamos mobiliarios para todo tipo de instituciones y organizaciones, desde mobiliarios hospitalarios hasta educativos, garantizando la mayor funcionalidad de los espacios y comodidad.</string>
+    <string name="EQUIPAMIENTOBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="CIVILTITULO">Civil</string>
+    <string name="CIVILTEXTO">Proyectamos, gerenciamos y ejecutamos obras civiles que incluyen el diseño, planificación e ingeniería necesaria adecuada para cada proyecto de diversas complejidades.</string>
+    <string name="CIVILBOTON">Enviar</string>
+
+    <string name="TRANSMISIONTITULO">Líneas de Transmisión</string>
+    <string name="TRANSMISIONTEXTO">Ideamos soluciones de ingeniería y diseño para el suministro y construcción de sistemas de transmisión y distribución de energía eléctrica, integrando soluciones para líneas de media y alta tensión.</string>
+    <string name="TRANSMISIONBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
     
+    <string name="METALMECANICATITULO">Metalmecánica</string>
+    <string name="METALMECANICATEXTO">Fabricamos componentes, equipos industriales y estructuras metálicas de mediano y gran porte. Con una gran superficie cubierta y una de las mayores capacidades de izaje del país, realizamos procesos de mecanización, conformación y tratamientos superficiales para piezas y componentes de todo tipo de industrias.</string>
+    <string name="METALMECANICABOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
 
-      <string name="PRESENTATION">Hola y bienvenidos al Multi-Language System</string>
-      <string name="SAMPLE_TEXT_1">Aquí puedes tener un texto (1).</string>
-      <string name="SAMPLE_TEXT_2">Aquí puedes tener un texto diferente (2)</string>
-      <string name="SAMPLE_TEXT_3">Aquí puedes tener otro texto diferente (3).</string>
+    <string name="MINERIATITULO">Minería</string>
+    <string name="MINERIATEXTO">Comercializamos y fabricamos máquinas y equipos destinados al procesamiento de rocas y áridos, con apoyo permanente en post-venta y provisión de repuestos y accesorios de todas las líneas de productos.</string>
+    <string name="MINERIABOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
 
-      <string name="MESSAGE_HEADER">MESAJE:</string>
+    <string name="PUERTOSTITULO">Puertos</string>
+    <string name="PUERTOSTEXTO">Desarrollamos proyectos para puertos fluviales incluyendo estudios preliminares y de batimetría, obras civiles, suministro de grúas y equipos para movimiento de cargas especiales, además de toda la iluminación conforme a normativas internacionales, redes de Wi-Fi y potencia para patios de contenedores reefer, entre otros.</string>
+    <string name="PUERTOSBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
 
+    <string name="QUIMICATITULO">Química</string>
+    <string name="QUIMICATEXTO">Construimos plantas industriales para la producción de todo tipo de productos químicos, los cuales incluyen estudios de factibilidad, ingeniería, suministros, mantenimiento y gestión, así como el pre comisionamiento y puesta en marcha, capacitación de personal y asistencia para la operación.</string>
+    <string name="QUIMICABOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
 
+    <string name="RECICLAJETITULO">Reciclaje</string>
+    <string name="RECICLAJETEXTO">Diseñamos, fabricamos y realizamos la puesta en marcha de plantas completas para reciclaje de residuos urbanos e industriales tanto móviles como fijas, ofreciendo el máximo rendimiento gracias al asesoramiento y conocimiento que nos permite diseñar sistemas a medida.</string>
+    <string name="RECICLAJEBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="SANEAMIENTOTITULO">Saneamiento</string>
+    <string name="SANEAMIENTOTEXTO">Desarrollamos soluciones integrales para el tratamiento de todo tipo de aguas, ya sea para potabilización o de efluentes industriales y cloacales, llevando sistemas con tecnología de vanguardia para su operación y uso. Nuestros equipos son fabricados en acero inoxidable o fibra de vidrio (PRFV).</string>
+    <string name="SANEAMIENTOBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="SUBESTACIONESTITULO">Sub-Estaciones</string>
+    <string name="SUBESTACIONESTEXTO">Llevamos a cabo la construcción desde el inicio hasta la entrega en la modalidad llave en mano, de subestaciones eléctricas (AIS y GIS) y sus respectivas líneas de transmisión, con transformadores y sistemas de medición en concordancia con todas las reglamentaciones de seguridad nacionales e internacionales.</string>
+    <string name="SUBESTACIONESBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="TERMOMECANICATITULO">Termomecánica</string>
+    <string name="TERMOMECANICATEXTO">Brindamos soluciones para el control y manejo de temperaturas en los procesos de producción, mediante equipos para generación de vapor, refrigeración e incineración.</string>
+    <string name="TERMOMECANICABOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="TICSTITULO">TIC’s</string>
+    <string name="TICSTEXTO">Integramos y ejecutamos proyectos focalizados en soluciones tecnológicas para redes corporativas públicas y privadas, con la asesoría técnica adecuada para el mayor aprovechamiento de las instalaciones y adquisición de equipos.</string>
+    <string name="TICSBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="TRANSPORTETITULO">Transporte y Logística</string>
+    <string name="TRANSPORTETEXTO">Desarrollamos soluciones integrales de transporte y logística que incluyen el diseño y la fabricación de equipos y carrocerías, teniendo en cuenta las normativas, el peso, modo de carga y descarga, trayectos, etc.</string>
+    <string name="TRANSPORTEBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
+
+    <string name="VIALIDADTITULO">Vialidad</string>
+    <string name="VIALIDADTEXTO">Ejecutamos obras viales como autopistas, rutas, caminos y calles urbanas, sistemas de control de peso y puentes, que permiten la comunicación vial eficientes entre las ciudades.</string>
+    <string name="VIALIDADBOTON">
+      ¿Quieres saber más?
+      Contáctanos aquí
+    </string>
     
-
-      <string name="PLAY_BUTTON">JUGAR</string>
-      <string name="OPTIONS_BUTTON">OPCIONES</string>
-      <string name="EXIT_BUTTON">DEJAR</string>
-      <string name="RETURN_BUTTON">REGRESO</string>
-
-
-      <string name="MESSAGE1_BUTTON">MESAJE 1</string>
-      <string name="MESSAGE2_BUTTON">MESAJE 2</string>
-      <string name="MESSAGE3_BUTTON">MESAJE 3</string>
-
-      
-      <string name="SAMPLE_DROPDOWN_1">ESP DROP OPTION 1</string>
-      <string name="SAMPLE_DROPDOWN_2">ESP DROP OPTION 2</string>
-      <string name="SAMPLE_DROPDOWN_3">ESP DROP OPTION 3</string>
-
-
-      <string name="SAMPLE_MESSAGE_1">Aquí puede tener un mensaje de texto (1).</string>
-      <string name="SAMPLE_MESSAGE_2">Aquí puede tener un mensaje de texto diferente (2).</string>
-      <string name="SAMPLE_MESSAGE_3">Aquí puede tener otro mensaje de texto diferente (3).</string>
-
-
-      <string name="GAME_HEADER">Escena del jueco</string>
-      <string name="GAME_MESSAGE">Esto es como un texto dentro del juego.</string>
- 
+    <string name="VERMAS">Ver más</string>
     
   </Espanol>
   

@@ -2,24 +2,23 @@
 <languages>
 
   <Chino>
-  
 
-      
-   <string name="SUBTITULO">現實增強的應用程式允許我們的 宣傳冊具有一個多媒體的經驗。</string>
-   <string name="PASOS-TITULO">步驟</string>
-   <string name="PASOS-TEXTO">每次找到這個圖示將可以對準影 像使用運用程式</string>
-   <string name="SIGUIENTE">下一步</string>
+    <string name="SUBTITULO">現實增強的應用程式允許我們的 宣傳冊具有一個多媒體的經驗。</string>
+    <string name="PASOS-TITULO">步驟</string>
+    <string name="PASOS-TEXTO">每次找到這個圖示將可以對準影 像使用運用程式</string>
+    <string name="SIGUIENTE">下一步</string>
 
-    
-    <string name="CONTACTO">Prueba</string>
-    <string name="NOSOTROS">Prueba</string>
+
+    <string name="CONTACTO">联系</string>
+    <string name="NOSOTROS">我们</string>
 
     <string name="DIRECCION">
       地址: Ruta Cap. Andrés Insfrán 1570
       y Lara Castro, Luque
       電話: (595 21) 647 883
       傳真: (595 21) 654 336
-      電郵: info@engineering.com.py</string>
+      電郵: info@engineering.com.py
+    </string>
     <string name="BOTON-ENGINEERING">網站: www.engineering.com.py</string>
 
 
@@ -48,6 +47,181 @@
     <string name="EMPRESA">公司</string>
     <string name="MENSAJE">訊息</string>
     <string name="ENVIAR">寄送</string>
+
+    <string name="AEROPORTUARIOTITULO">飛機場</string>
+    <string name="AEROPORTUARIOTEXTO">我們製造行李登機/下機的設備，我們執行降落跑道的標示和飛機場機電的保養，提供在地面協助的設備和平台。</string>
+    <string name="AEROPORTUARIOBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="AUTOMATIZACIONTITULO">屬動慌</string>
+    <string name="AUTOMATIZACIONTEXTO">
+      盲㊝飾剔SCADA邑統忙過熊業駁產屬動慌些循竒來優慌駁產廓過穎，補桑資訊湖熊穎移崘廓糸決祇デ，連鋒福翼關廓鎖術壞叭，僂歌來暁派駁產週紬。
+      觸動叛陳他應剔穎叛廓﹃嚊 (HMI)
+      PLC廓編穎
+      喋紳處情 (Batch)
+      痩ヴ設計與組裝
+      網精僑務
+      轉緑僑務
+      應剔穎叛廓壞叭
+      優慌僑務
+      仲夲與設計
+    </string>
+    <string name="AUTOMATIZACIONBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="BIOMEDICSTITULO">生物醫學</string>
+    <string name="BIOMEDICSTEXTO">我們提供我們的技術平台、由國家的工程師和專業人員，在國際的質量標準下來發展、製造和建設醫院的結構；。此外我們也供應醫用設備和用品。</string>
+    <string name="BIOMEDICSBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="CEMENTOTITULO">水泥</string>
+    <string name="CEMENTOTEXTO">
+      我們執行鑰匙到手交易方式 (EPC) 的水泥廠項目，從工程發展起、包含土木、電器和機電工程來做設備的製造及裝配，例如中型及大型的鍋爐，升降機，運輸帶，螺旋運輸線，漏斗組，滾筒篩，混合廠，乾燥機及其他。
+    </string>
+    <string name="CEMENTOBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="COMBUSTIBLETITULO">燃料</string>
+    <string name="COMBUSTIBLETEXTO">我們建造、製造石油及天然氣工業的燃料儲存單位及運輸單位，及提供保養的服務，我們的設計顧及環保及經濟的永續性，在國際標準下來適應本行業的需求和挑戰。</string>
+    <string name="COMBUSTIBLEBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="DEFENSATITULO">
+      誼禦
+    </string>
+    <string name="DEFENSATEXTO">盲㊝唔國內畔掛倡個俥畔湊倡㏔寢廓廟椴國誼些βチ熊業。盲㊝設計\駁產\塰糊湖銷妃㉀食些鴫食\戰跡些βチ廓爼倒設備。</string>
+    <string name="DEFENSABOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="EOLICATITULO">風能</string>
+    <string name="EOLICATEXTO">我們安裝由風力發電的系統，這代表著龐大的經濟和環境的優勢。藉由越來越先進的風力發電機來得到清潔和再生的能源。</string>
+    <string name="EOLICABOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="SOLARTITULO">太陽能</string>
+    <string name="SOLARTEXTO">我們安裝光伏太陽能系統，在考量於環境的保護上這是發電最佳的選擇，安裝是藉由最精緻的技術、不論是計算上的、或在材料質量的選擇和分類、和現有最先進科技的解決方案。</string>
+    <string name="SOLARBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="EQUIPAMIENTOTITULO">設備和家具</string>
+    <string name="EQUIPAMIENTOTEXTO">我們供應和銷售所有形式的機構和組織的家具，自醫院用家具起到學校用家具，以此保證最佳的空間功能及舒適性。</string>
+    <string name="EQUIPAMIENTOBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="CIVILTITULO">土木工程</string>
+    <string name="CIVILTEXTO">我們策畫、管理和執行土木工程，包含適用於每一個不同複雜程度的計畫項目所需的設計、計畫及工程。</string>
+    <string name="CIVILBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="TRANSMISIONTITULO">電力傳導線</string>
+    <string name="TRANSMISIONTEXTO">我們設計電力傳輸和分配系統，提供建設工程上和設計上的解決方案，整合中壓線和高壓線的解決方案。</string>
+    <string name="TRANSMISIONBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="METALMECANICATITULO">金屬加工</string>
+    <string name="METALMECANICATEXTO">我們製造大型及中型的工業設備及金屬結構。由一個廣大的覆蓋面積和國內最高的舉重能力，我們對所有類型工業的零件及組件實施金屬加工、成型和表面處理的程序。</string>
+    <string name="METALMECANICABOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="MINERIATITULO">礦業</string>
+    <string name="MINERIATEXTO">我們銷售及製造用於岩石及顆粒物質加工的機器及設備，售後將會持續支援和供應所有生產線的零件及配件。</string>
+    <string name="MINERIABOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="PUERTOSTITULO">港口</string>
+    <string name="PUERTOSTEXTO">我們發展水運港口的計畫項目，包含初步研究及測深的研究及、土木工程、起重機和搬運特別重物的設備以及照明設備的提供，全部都依據國際標準，Wi Fi網及冷凍櫃場地供電設備，及其他。</string>
+    <string name="PUERTOSBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="QUIMICATITULO">化學</string>
+    <string name="QUIMICATEXTO">我們建造所有化學製品生產的工廠，這些包含可行性的研究、工程、供應鏈、保養和管理，以及預先的調試及啟動、人員的訓練及作業的支援。</string>
+    <string name="QUIMICABOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="RECICLAJETITULO">鉱磐</string>
+    <string name="RECICLAJETEXTO">盲㊝設計\製喙湖啟動矧區ょ棄役鉱磐廓枕塰熊廠\鮎❸畔国動叛廓黒系勧叛廓，盲㊝兮為錫辨翼關廓顧問些翼關廓墮識，僂歌來咢許盲㊝崘出製慌廓設計既補桑崗金廓葎斥。</string>
+    <string name="RECICLAJEBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="SANEAMIENTOTITULO">衛生</string>
+    <string name="SANEAMIENTOTEXTO">我們對所有種類的水來發展解決方案，不論是自來水或工業水和汙水的排放；系統以先進的技術來作業及使用。我們的設備是用不銹鋼或玻璃纖維 (PRFV) 來製造。</string>
+    <string name="SANEAMIENTOBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="SUBESTACIONESTITULO">變電廠</string>
+    <string name="SUBESTACIONESTEXTO">我們對以鑰匙到手方式所交易的子變電廠 (AIS y GIS) 以及相應的傳導線，連帶變電器和電壓符合測量系統、以國際和國內的安全規範自開始到交付進行施工。</string>
+    <string name="SUBESTACIONESBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="TERMOMECANICATITULO">
+      熱力機器
+    </string>
+    <string name="TERMOMECANICATEXTO">
+      我們提供在生產過程中溫度控制及操作的解決方案，藉由設備來產生蒸氣、冷卻及焚化。
+    </string>
+    <string name="TERMOMECANICABOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="TICSTITULO">信息通訊技術</string>
+    <string name="TICSTEXTO">我們整合及執行公共或私人企業網路專注於技術解決方案的計畫項目，具有適當的技術顧問來做設施最佳的利用和設備的購買。</string>
+    <string name="TICSBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="TRANSPORTETITULO">運輸及後勤</string>
+    <string name="TRANSPORTETEXTO">我們發展整合運輸及後勤的解決方案，包含設備及車身的設計和製造，考量於相關法規、重量，載種及卸貨的方式、路程等等。</string>
+    <string name="TRANSPORTEBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="VIALIDADTITULO">道路</string>
+    <string name="VIALIDADTEXTO">我們執行道路工程、如同高速公路、公路，道路和街道，重量控制系統和橋梁，使城市間具有高效率的道路通訊。</string>
+    <string name="VIALIDADBOTON">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+    <string name="VERMAS">看更多</string>
     
   </Chino>
 

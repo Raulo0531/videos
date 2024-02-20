@@ -1,44 +1,176 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
-
-  <Italian>
   
+  <Portugues>
 
 
-      <string name="PRESENTATION">Ciao e benvenuto a Multi-Language System</string>
-      <string name="SAMPLE_TEXT_1">Qui puoi avere del testo (1).</string>
-      <string name="SAMPLE_TEXT_2">Qui puoi avere del testo differente (2).</string>
-      <string name="SAMPLE_TEXT_3">Qui puoi avere un'altro testo differente (3).</string>
+    <string name="SUBTITULO"> A aplicação da realidade aumentada permite uma experiência multimédia da nossa brochura. </string>
+    <string name="PASOS-TITULO">PASSOS</string>
+    <string name="PASOS-TEXTO"> Sempre que encontrar este ícone, pode utilizar a aplicação que focaliza a imagem. </string>
+    <string name="SIGUIENTE">SEGUINTE</string>
+    <string name="CONTACTO">CONTACTO</string>
+    <string name="NOSOTROS">NOSOTROS</string>
+    <string name="DIRECCION"> Rodovia Cap. Andrés Insfrán 1570 e Rua Lara Castro, Luque Tel.: (59521) 647 883 Fax: (59521) 654 336 Email: info@engineering.com.py </string>
+    <string name="BOTON-ENGINEERING">www.engineering.com.py</string>
+    <string name="TITULO-MAPA">Combustíveis</string>
+    <string name="TEXTO-MAPA"> Construímos e oferecemos manutenção para unidades de armazenamento e transporte de combustível para aindústria petrolífera e do gás com desenhos que permitem sustentabilidade ecológica e económica, adaptando-nos às exigências e desafios do sector no âmbito das normas internacionais. </string>
+    <string name="ABAJO-MAPA"> Deseja saber mais? Contacte-nos aqui </string>
+    <string name="TEXTO-FORMULARIO"> Se estiver interessado em solicitar uma cotação ou se desejar fazer um inquérito, por favor preencha o seguinte formulário: </string>
+    <string name="NOMBRE-APELLIDO">Nome e apelido</string>
+    <string name="EMAIL">E-mail</string>
+    <string name="TELEFONO">Telefone</string>
+    <string name="EMPRESA">Empresa</string>
+    <string name="MENSAJE">Mensagem</string>
+    <string name="ENVIAR">Enviar</string>
 
-      <string name="MESSAGE_HEADER">MESSAGGIO:</string>
 
+    <string name="AEROPORTUARIOTITULO">Aeroportuário</string>
+    <string name="AEROPORTUARIOTEXTO">Fabricamos equipamentos para embarque/desembarque de equipagens, executamos sinalização de pistas de aterrisagem e manutenção eletromecânico para aeroportos, oferecendo uma diversa variedade de equipamentos de assistência em terra e plataforma.</string>
+    <string name="AEROPORTUARIOBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
+    <string name="AUTOMATIZACIONTITULO">Automatização</string>
+    <string name="AUTOMATIZACIONTEXTO">
+      Otimizamos processos através da automatização e controle industrial utilizando o sistema SCADA, oferecendo soluções para o manuseio da informação e engenharia com seu respectivo suporte técnico, permitindo melhorar os ciclos de produção.
+      Desenvolvimento de aplicações para telas tácteis (HMI)
+      Programação de PLC
+      Processamento em lotes (Batch)
+      Design de painéis e ensamble
+      Serviços de Rede
+      Serviços de Transformação
+      Suporte de Aplicativos
+      Serviços de Otimização
+      Configuração e Design
+    </string>
+    <string name="AUTOMATIZACIONBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+
+    <string name="BIOMEDICSTITULO">Biomedics</string>
+    <string name="BIOMEDICSTEXTO">Dispomos nossa plataforma tecnológica para o desenvolvimento, fabricação e construção de infraestrutura para hospitais; com engenheiros e profissionais nacionais sob padrões de qualidade internacional. Assim também, realizamos subministros de equipamentos e insumos médicos.</string>
+    <string name="BIOMEDICSBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+
+    <string name="CEMENTOTITULO">Cimento</string>
+    <string name="CEMENTOTEXTO">
+      Executamos projetos chave na mão (EPC) de plantas para produção de cimento, que vão desde o desenvolvimento da engenharia incluindo as obras civis, elétricas e eletromecânicas para a fabricação e montagem de equipamentos como caldeireira média e pesada, elevadores, cintas, esteiras, grupos de tremonhas, plantas de mesclas, tambores, secadores e outros.
+    </string>
+    <string name="CEMENTOBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+
+    <string name="COMBUSTIBLETITULO">Combustíveis</string>
+    <string name="COMBUSTIBLETEXTO">Construímos, fabricamos e oferecemos manutenção a unidades de armazenamento e transporte de combustíveis para a indústria petrolífera e do gás, com designs que permitem sustentabilidade ecológica e econômica, adaptando-nos às exigências e desafios do setor sob padrões internacionais.</string>
+    <string name="COMBUSTIBLEBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+
+    <string name="DEFENSATITULO">
+      Defesa
+    </string>
+    <string name="DEFENSATEXTO">Somos a primeira indústria privada de defesa e segurança habilitada como fabricante no país. Desenhamos, produzimos, integramos e comercializamos equipamentos logísticos estratégicos e de segurança para as Forças Armadas e Policiais.</string>
+    <string name="DEFENSABOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+
+    <string name="EOLICATITULO">Eólica</string>
+    <string name="EOLICATEXTO">Instalamos sistemas para a obtenção de energia elétrica proveniente do vento, o que representa uma grande vantagem econômica e meio ambiental. Por meio de aerogeradores cada vez mais eficientes, se obtém energia limpa e renovável.</string>
+    <string name="EOLICABOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+
+    <string name="SOLARTITULO">Solar</string>
+    <string name="SOLARTEXTO">Instalamos sistemas de energia solar fotovoltaica, consideradas as melhores alternativas para a geração de eletricidade preservando o ambiente, através das mais depuradas técnicas tanto de cálculos como de seleção e classificação na qualidade dos materiais e soluções com as últimas tecnologias em vigor.</string>
+    <string name="SOLARBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+
+    <string name="EQUIPAMIENTOTITULO">Equipamento e Mobiliário</string>
+    <string name="EQUIPAMIENTOTEXTO">Fornecemos e comercializamos mobiliários para todo tipo de instituições e organizações, desde mobiliários hospitalários até educativos, garantindo a maior funcionalidade dos espaços e comodidade.</string>
+    <string name="EQUIPAMIENTOBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+
+    <string name="CIVILTITULO">Civil</string>
+    <string name="CIVILTEXTO">Projetamos, gerenciamos e executamos obras civis que incluem o design, planificação e engenharia necessária adequada para cada projeto de diversas complexidades.</string>
+    <string name="CIVILBOTON">Deseja saber mais? Contacte-nos aqui</string>
+
+    <string name="TRANSMISIONTITULO">Linhas de Transmissão</string>
+    <string name="TRANSMISIONTEXTO">Ideamos soluções de engenharia e design para o subministro e construção de sistemas de transmissão e distribuição de energia elétrica, integrando soluções para linhas de média e alta tensão.</string>
+    <string name="TRANSMISIONBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
     
+    <string name="METALMECANICATITULO">Metalmecânica</string>
+    <string name="METALMECANICATEXTO">Fabricamos componentes, equipamentos industriais e estruturas metálicas de médio e grande porte. Com uma grande superfície coberta e uma das maiores capacidades de elevação do país, realizamos processos de mecanização, conformação e tratamentos superficiais para peças e componentes de todo tipo de indústrias.</string>
+    <string name="METALMECANICABOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
-      <string name="PLAY_BUTTON">GIOCA</string>
-      <string name="OPTIONS_BUTTON">OPZIONI</string>
-      <string name="EXIT_BUTTON">ESCI</string>
-      <string name="RETURN_BUTTON">RITORNA</string>
+    <string name="MINERIATITULO">Mineração</string>
+    <string name="MINERIATEXTO">Comercializamos e fabricamos máquinas e equipamentos destinados ao processamento de rochas e áridos, com apoio permanente na pós-venda e provisão de peças e acessórios de todas as linhas de produtos.</string>
+    <string name="MINERIABOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
+    <string name="PUERTOSTITULO">Portos</string>
+    <string name="PUERTOSTEXTO">Desenvolvemos projetos para portos fluviais incluindo estudos preliminares e de batimetria, obras civis, subministro de guinchos e equipamentos para movimento de cargas especiais, além de toda a iluminação conforme a normativas internacionais, redes de Wi-Fi e potência para pátios de contêineres reefer, entre outros.</string>
+    <string name="PUERTOSBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
-      <string name="MESSAGE1_BUTTON">MESAGGIO 1</string>
-      <string name="MESSAGE2_BUTTON">MESAGGIO 2</string>
-      <string name="MESSAGE3_BUTTON">MESAGGIO 3</string>
+    <string name="QUIMICATITULO">Química</string>
+    <string name="QUIMICATEXTO">Construímos plantas industriais para a produção de todo tipo de produtos químicos, os quais incluem estudos de factibilidade, engenharia, subministros, manutenção e gestão, bem como o pré-comissionamento e funcionamento, capacitação de pessoal e assistência para a operação.</string>
+    <string name="QUIMICABOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
+    <string name="RECICLAJETITULO">Reciclagem</string>
+    <string name="RECICLAJETEXTO">Desenhamos, fabricamos e realizamos o funcionamento de plantas completas para reciclagem de resíduos urbanos e industriais tanto móveis como fixas, oferecendo o máximo rendimento graças ao assessoramento e conhecimento que nos permite desenhar sistemas sob medida.</string>
+    <string name="RECICLAJEBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
-      <string name="SAMPLE_DROPDOWN_1">ITA DROP OPTION 1</string>
-      <string name="SAMPLE_DROPDOWN_2">ITA DROP OPTION 2</string>
-      <string name="SAMPLE_DROPDOWN_3">ITA DROP OPTION 3</string>
+    <string name="SANEAMIENTOTITULO">Saneamento</string>
+    <string name="SANEAMIENTOTEXTO">Desenvolvemos soluções integrais para o tratamento de todo tipo de águas, seja para potabilização ou de efluentes industriais e de esgoto, levando sistemas com tecnologia de vanguarda para sua operação e uso. Nossos equipamentos são fabricados em aço inoxidável ou fibra de vidro (PRFV).</string>
+    <string name="SANEAMIENTOBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
+    <string name="SUBESTACIONESTITULO">Subestações</string>
+    <string name="SUBESTACIONESTEXTO">Levamos adiante a construção desde o início até a entrega na modalidade chave na mão, de subestações elétricas (AIS y GIS) e suas respectivas linhas de transmissão, com transformadores e sistemas de medição em concordância com todas as regulamentações de segurança nacionais e internacionais.</string>
+    <string name="SUBESTACIONESBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
-      <string name="SAMPLE_MESSAGE_1">Qui puoi avere del testo per un messaggio (1).</string>
-      <string name="SAMPLE_MESSAGE_2">Qui puoi avere del testo differente per un messaggio (2).</string>
-      <string name="SAMPLE_MESSAGE_3">Qui puoi avere un'altro testo differente per un messaggio. (3).</string>
+    <string name="TERMOMECANICATITULO">Termomecânica</string>
+    <string name="TERMOMECANICATEXTO">Oferecemos soluções para o controle e manuseio de temperaturas nos processos de produção, mediante equipamentos para geração de vapor, refrigeração e incineração.</string>
+    <string name="TERMOMECANICABOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
-      <string name="GAME_HEADER">Scena del gioco</string>
-      <string name="GAME_MESSAGE">Questo e' un testo nel gioco</string>
+    <string name="TICSTITULO">TIC’s</string>
+    <string name="TICSTEXTO">Integramos e executamos projetos focalizados em soluções tecnológicas para redes corporativas públicas e privadas, com o assessoramento técnica adequada para o maior aproveitamento das instalações e aquisição de equipamentos.</string>
+    <string name="TICSBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
-     
-  </Italian>
+    <string name="TRANSPORTETITULO">Transporte e Logística</string>
+    <string name="TRANSPORTETEXTO">Desenvolvemos soluções integrais de transporte e logística que incluem o design e a fabricação de equipamentos e carrocerias, levando em conta as normativas, o peso, modo de carga e descarga, trajetos, etc.</string>
+    <string name="TRANSPORTEBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
 
+    <string name="VIALIDADTITULO">Rodovias</string>
+    <string name="VIALIDADTEXTO">Executamos obras rodoviárias como rodovias, estradas, caminhos e ruas urbanas, sistemas de controle de peso e pontes, que permitem a comunicação terrestre eficientes entre as cidades.</string>
+    <string name="VIALIDADBOTON">
+      Deseja saber mais? Contacte-nos aqui
+    </string>
+    
+  <string name="VERMAS">Ver mais</string>
+    
+  </Portugues>
+  
 </languages>
