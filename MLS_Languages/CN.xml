@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+  <Chino>
+  
+
+      
+   <string name="SUBTITULO">現實增強的應用程式允許我們的 宣傳冊具有一個多媒體的經驗。</string>
+   <string name="PASOS-TITULO">步驟</string>
+   <string name="PASOS-TEXTO">每次找到這個圖示將可以對準影 像使用運用程式</string>
+   <string name="SIGUIENTE">下一步</string>
+
+    
+    <string name="CONTACTO">Prueba</string>
+    <string name="NOSOTROS">Prueba</string>
+
+    <string name="DIRECCION">
+      地址: Ruta Cap. Andrés Insfrán 1570
+      y Lara Castro, Luque
+      電話: (595 21) 647 883
+      傳真: (595 21) 654 336
+      電郵: info@engineering.com.py</string>
+    <string name="BOTON-ENGINEERING">網站: www.engineering.com.py</string>
+
+
+    <string name="TITULO-MAPA">位置圖</string>
+    <string name="TEXTO-MAPA">
+      燃料
+      我們建造、製造石油及天然氣工業的燃料儲存
+      單位及運輸單位,及提供保養的服務,我們的
+      設計顧及環保及經濟的永續性,在國際標準下
+      來適應本行業的需求和挑戰。
+    </string>
+    <string name="ABAJO-MAPA">
+      還要知道更多䆩?
+      點擊這裡聯絡我們
+    </string>
+
+
+    <string name="TEXTO-FORMULARIO">
+      如果䓟有興趣申請一個報價
+      或做一些諮詢,
+      請填寫下列格式:
+    </string>
+    <string name="NOMBRE-APELLIDO">姓名</string>
+    <string name="EMAIL">電郵</string>
+    <string name="TELEFONO">電話</string>
+    <string name="EMPRESA">公司</string>
+    <string name="MENSAJE">訊息</string>
+    <string name="ENVIAR">寄送</string>
+    
+  </Chino>
+
+</languages>
